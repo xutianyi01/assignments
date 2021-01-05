@@ -14,14 +14,12 @@ Project guidelines:
 
 ### Project Ideas
 
-Submit three project ideas at <https://forms.gle/3T6Fg9ge4VxQk2rD6>
+Submit three project ideas under the "Project Ideas" discussion board on Canvas. Also provide feedback to two other teams.
 
 Complete one survey per team.
 
 ### Proposal
-Complete this survey, **one per team**, to submit your propsal:
-
-<https://forms.gle/oSBmY7kjsop2mR3Y8>
+Complete the project proposal by submitting under the "Project Proposal" discussion board on Canvas. Also provide feedback to one other team.
 
 You will specify the following:
 
@@ -50,6 +48,8 @@ Your project milestone report will be 2 - 3 pages using the provided template in
 
 Compile and push to `report/report.pdf` in your project repo.
 
+You will also provide feedback to one other group under the "Project Milestone" discussion in Canvas.
+
 ### Report
 
 A 6-8 page summary of your project. Examples are [here](http://nlp.stanford.edu/courses/cs224n/).
@@ -70,7 +70,7 @@ You should edit the `README.md` file in the root folder of your project reposito
 
 ### Presentation
 
-A **maximum** ten minute presentation summarizing your project, following a similar template as the report. Use the `docs/` folder of your project to make your slides using Markdown. The slides should be visible at https://tulane-cmps6730.github.io/project-alpha, where `project-alpha` is your project name.
+A **maximum** ten minute presentation summarizing your project, following a similar template as the report. Use the `docs/` folder of your project to make your slides using Markdown. The slides should be visible at https://tulane-cmps6730.github.io/project-alpha, where `project-alpha` is your project name. The presentations will be done during Exam week.
 
 
 ### Grading
