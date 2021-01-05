@@ -76,8 +76,9 @@ A **maximum** ten minute presentation summarizing your project, following a simi
 ### Grading
 
 The project is worth 200 points total, consisting of:
+- Project Ideas (5%)
 - Proposal (10%)
-- Milestone (15%)
+- Milestone (10%)
 - Report:
   - Clarity, related work, discussion (10%)
   - Technical correctness and depth (10%)
