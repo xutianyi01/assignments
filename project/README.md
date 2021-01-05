@@ -66,6 +66,8 @@ A 6-8 page summary of your project. Examples are [here](http://nlp.stanford.edu/
 
 Compile and push to `report/report.pdf` in your project repo.
 
+You should edit the `README.md` file in the root folder of your project repository to include a summary of the report (goals, methods, conclusion, screenshot). This should be a compelling advertisement for your project.
+
 ### Presentation
 
 A **maximum** ten minute presentation summarizing your project, following a similar template as the report. Use the `docs/` folder of your project to make your slides using Markdown. The slides should be visible at https://tulane-cmps6730.github.io/project-alpha, where `project-alpha` is your project name.
@@ -80,6 +82,7 @@ The project is worth 200 points total, consisting of:
   - Clarity, related work, discussion (10%)
   - Technical correctness and depth (10%)
   - Evaluation and results (10%)
-- Project presentation (15%)
+- Project presentation (10%)
+- Repository README.md file (5%)
 - Code quality and thoroughness (15%)
 - Demo (15%)
