@@ -76,14 +76,14 @@ A **maximum** ten minute presentation summarizing your project, following a simi
 ### Grading
 
 The project is worth 200 points total, consisting of:
-- Project Ideas (5%)
-- Proposal (10%)
-- Milestone (10%)
+- Project Ideas (10 pts)
+- Proposal (20 pts)
+- Milestone (30 pts)
 - Report:
-  - Clarity, related work, discussion (10%)
-  - Technical correctness and depth (10%)
-  - Evaluation and results (10%)
-- Project presentation (10%)
-- Repository README.md file (5%)
-- Code quality and thoroughness (15%)
-- Demo (15%)
+  - Clarity, related work, discussion (20 pts)
+  - Technical correctness and depth (20 pts)
+  - Evaluation and results (20 pts)
+- Project presentation (20 pts)
+- Repository README.md file (10 pts)
+- Code quality and thoroughness (30 pts)
+- Demo (20 pts)
