@@ -12,6 +12,12 @@ Project guidelines:
 - After the Proposal survey is submitted (see below), a new private repository will be created for your group.
 - See the [sample project repo](https://github.com/tulane-cmps6730/sample-project) for how your project will be structured.
 
+### Project Ideas
+
+Submit three project ideas at <https://forms.gle/3T6Fg9ge4VxQk2rD6>
+
+Complete one survey per team.
+
 ### Proposal
 Complete this survey, **one per team**, to submit your propsal:
 
@@ -56,6 +62,7 @@ A 6-8 page summary of your project. Examples are [here](http://nlp.stanford.edu/
 6. Experiment: What kind of experiments did you do; what kind of dataset(s) you're using; what baseline method are you comparing against; and how you will evaluate your results. Report the results of your experiments in detail, including both quantitative evaluations (show numbers, figures, tables, etc) as well as qualitative evaluations (show images, example results, example errors, etc).
 7. Conclusion: What have you learned? Suggest future ideas.
 8. References: list of references cited in your report.
+9. Screenshots: Include screenshots of your web interface showing a demonstration of your project.
 
 Compile and push to `report/report.pdf` in your project repo.
 
@@ -66,13 +73,13 @@ A **maximum** ten minute presentation summarizing your project, following a simi
 
 ### Grading
 
-The project is worth 100 points total, consisting of:
+The project is worth 200 points total, consisting of:
 - Proposal (10%)
 - Milestone (15%)
 - Report:
-  - Clarity, related work, discussion (15%)
-  - Technical correctness and depth (15%)
-  - Evaluation and results (15%)
+  - Clarity, related work, discussion (10%)
+  - Technical correctness and depth (10%)
+  - Evaluation and results (10%)
 - Project presentation (15%)
 - Code quality and thoroughness (15%)
-
+- Demo (15%)
